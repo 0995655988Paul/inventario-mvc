@@ -4,6 +4,8 @@ Proyecto académico para aprender a iniciar sesión y gestionar alimentos con el
 
 Repositorio: [inventario-mvc en GitHub](https://github.com/0995655988Paul/inventario-mvc).
 
+Video de demostración: [Ver el proyecto en YouTube](https://youtu.be/gjPN6Cz-gHI).
+
 Cada alimento tiene cuatro campos: `id`, `nombre`, `precio` y `stock`. El precio se expresa en dólares y la cantidad en unidades enteras. En el código se conservan el modelo `ProductoModel`, el controlador `Productos`, la tabla `productos` y las rutas `/productos`. Los datos se guardan en SQLite, en el archivo local `writable/inventario.db`; no necesitas instalar un servidor MySQL.
 
 ## Funciones
@@ -269,7 +271,7 @@ El repositorio requiere autenticación para enviar cambios. En VS Code también 
 | 2:20–2:45 | Cerrar sesión, volver a abrir `/productos` y comprobar el regreso al login |
 | 2:45–2:55 | Señalar que el README explica cómo instalar y reproducir la práctica |
 
-Prepara el servidor y los archivos antes de grabar. Muestra el código necesario sin abrir `.env` ni datos privados. **La grabación y la publicación del video quedan pendientes**; añade su enlace real al completar esa etapa.
+Video de la entrega: [Ver la demostración en YouTube](https://youtu.be/gjPN6Cz-gHI).
 
 ## Licencia y atribución
 
